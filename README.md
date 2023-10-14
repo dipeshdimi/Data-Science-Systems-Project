@@ -7,7 +7,7 @@
 
 # How to use this Project
 To use this project, follow these steps :-
-1. Data Preparation: Ensure you have the Amazon Product Co-Purchasing Network dataset ready. You can download it from the provided source.
+1. Data Preparation: Ensure you have the Amazon Product Co-Purchasing Network dataset ready. You can download it from https://snap.stanford.edu/data/amazon0302.txt.gz.
 
 2. Environment Setup: Set up your environment with Apache Spark (version 3.5.0), Scala (version 2.11.12), and OpenJDK.
 
